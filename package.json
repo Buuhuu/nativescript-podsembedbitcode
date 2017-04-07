@@ -1,0 +1,12 @@
+{
+  "name": "nativescript-dev-embedbitcode",
+  "version": "0.1.0",
+  "description": "This development dependency enables bitcode for all cocoapods installed with the project.",
+  "main": "index.js",
+  "keywords": [
+    "nativescript",
+    "cocoapods"
+  ],
+  "author": "Dirk Rudolph",
+  "license": "UNLICENSED"
+}
