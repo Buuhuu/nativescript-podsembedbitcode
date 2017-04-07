@@ -1,8 +1,13 @@
 {
   "name": "nativescript-pods-embedbitcode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This development dependency enables bitcode for all cocoapods installed with the project.",
   "main": "index.js",
+  "nativescript": {
+    "platforms": {
+      "ios": "2.3.0"
+    }  
+  },
   "keywords": [
     "nativescript",
     "cocoapods"
