@@ -12,6 +12,10 @@
     "nativescript",
     "cocoapods"
   ],
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@source.int.netcentric.biz:7999/native/nativescript-pods-embedbitcode.git"
+  },
   "author": "Dirk Rudolph",
   "license": "UNLICENSED"
 }
