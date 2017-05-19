@@ -1,5 +1,5 @@
 {
-  "name": "nativescript-pods-embedbitcode",
+  "name": "nativescript-podsembedbitcode",
   "version": "0.1.1",
   "description": "This development dependency enables bitcode for all cocoapods installed with the project.",
   "main": "index.js",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "ssh://git@source.int.netcentric.biz:7999/native/nativescript-pods-embedbitcode.git"
+    "url": "https://github.com/Buuhuu/nativescript-podsembedbitcode.git"
   },
   "author": "Dirk Rudolph",
   "license": "UNLICENSED"
